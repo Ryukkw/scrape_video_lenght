@@ -110,8 +110,8 @@ def process_groups_and_export_to_excel(group_urls):
 
 # Example list of VK groups (without the /video/@ part)
 group_urls = [
-    'https://vk.com/graces_world',  # Replace with actual group URLs
-    'https://vk.com/club221764047'
+    'https://vk.com/id',  # Replace with actual group URLs
+    'https://vk.com/club111111111'
 ]
 
 # Process the groups and export the data to an Excel file
